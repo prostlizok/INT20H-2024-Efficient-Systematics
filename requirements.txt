@@ -8,3 +8,5 @@ keras
 tensorflow
 numpy
 utils
+scikit-learn
+scikit-image
